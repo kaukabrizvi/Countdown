@@ -1,0 +1,16 @@
+.bullets{
+    background-color: skyblue;
+    width: 300px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 15px solid rgb(226, 230, 226);
+  padding: 50px;
+  margin: 20px;
+}
+#sub{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lightseagreen;
+}
+img{
+    width: 75px;
+    height: 75px;
+}
